@@ -1,4 +1,5 @@
-# Care-Chat
+# Care Chat - ❤️❤️ Made with love and care ❤️❤️
+Designed for sweet connections with loved ones. 💖
 
 Introducing our innovative interactive chatting app, designed with a commitment to elegance, efficiency, and heartfelt connections. Crafted with meticulous care for those who cherish meaningful conversations, our app offers a delightful experience unlike any other.
 
@@ -11,7 +12,5 @@ And let's talk about music and video sharing. With our built-in YouTube API-base
 At its core, our app is a labor of love, created with the pure intention of bringing joy and warmth to the hearts of our users. So whether you're chatting with family, friends, or that special someone, rest assured that every detail has been crafted with you in mind.
 
 Experience the beauty of genuine connection with our interactive chatting app—where every interaction is a celebration of love and togetherness.
-
-❤️❤️ Made with love and care ❤️❤️
 
 Programming languages used - HTML5, CSS3, Vanilla JS, JQuery, Ajax, PHP, MySQL
