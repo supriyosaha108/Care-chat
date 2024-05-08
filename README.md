@@ -12,4 +12,6 @@ At its core, our app is a labor of love, created with the pure intention of brin
 
 Experience the beauty of genuine connection with our interactive chatting app—where every interaction is a celebration of love and togetherness.
 
+❤️❤️ Made with love and care ❤️❤️
+
 Programming languages used - HTML5, CSS3, Vanilla JS, JQuery, Ajax, PHP, MySQL
