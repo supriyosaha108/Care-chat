@@ -1,4 +1,4 @@
-# Care-chat
+# Care-Chat
 
 Introducing our innovative interactive chatting app, designed with a commitment to elegance, efficiency, and heartfelt connections. Crafted with meticulous care for those who cherish meaningful conversations, our app offers a delightful experience unlike any other.
 
